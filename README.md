@@ -1,2 +1,14 @@
 # wendingpg-game-pages
-HTML page archive and documentation
+
+页面归档与发布记录
+
+这里集中存放 HTML 页面，README 仅用于说明仓库用途。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
